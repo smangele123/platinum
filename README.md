@@ -1,1 +1,1 @@
-# platinum
+boilerplate
